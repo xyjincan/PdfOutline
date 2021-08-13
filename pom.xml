@@ -9,7 +9,7 @@
   <properties>
   	
   	<itext.version>7.1.11-SNAPSHOT</itext.version>
-    <bouncycastle.version>1.64</bouncycastle.version>
+    <bouncycastle.version>1.67</bouncycastle.version>
     <cleanup.version>2.0.6-SNAPSHOT</cleanup.version>
     <fb-contrib.version>7.4.3</fb-contrib.version>
     <findsecbugs.version>1.8.0</findsecbugs.version>
